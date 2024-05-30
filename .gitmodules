@@ -1,3 +1,6 @@
 [submodule "libs/M2_dataset_extraction"]
 	path = libs/M2_dataset_extraction
 	url = https://github.com/sakinanazarali/M2_dataset_extraction.git
+[submodule "libs/M2_feature_extraction"]
+	path = libs/M2_feature_extraction
+	url = https://github.com/sakinanazarali/M2_feature_extraction.git
