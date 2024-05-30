@@ -13,3 +13,6 @@
 [submodule "libs/M2_tables_to_models"]
 	path = libs/M2_tables_to_models
 	url = https://github.com/sakinanazarali/M2_tables_to_models.git
+[submodule "libs/M2_ml_models"]
+	path = libs/M2_ml_models
+	url = https://github.com/sakinanazarali/M2_ml_models.git
