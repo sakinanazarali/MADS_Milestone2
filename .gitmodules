@@ -19,3 +19,6 @@
 [submodule "libs/M2_evaluations_tools"]
 	path = libs/M2_evaluations_tools
 	url = https://github.com/sakinanazarali/M2_evaluation_tools.git
+[submodule "libs/M2_visualizations"]
+	path = libs/M2_visualizations
+	url = https://github.com/sakinanazarali/M2_visualizations.git
