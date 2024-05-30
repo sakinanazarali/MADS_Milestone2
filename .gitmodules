@@ -10,3 +10,6 @@
 [submodule "libs/M2_oci_api"]
 	path = libs/M2_oci_api
 	url = https://github.com/sakinanazarali/M2_oci_api.git
+[submodule "libs/M2_tables_to_models"]
+	path = libs/M2_tables_to_models
+	url = https://github.com/sakinanazarali/M2_tables_to_models.git
