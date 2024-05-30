@@ -4,3 +4,6 @@
 [submodule "libs/M2_feature_extraction"]
 	path = libs/M2_feature_extraction
 	url = https://github.com/sakinanazarali/M2_feature_extraction.git
+[submodule "libs/M2_employer_scraping"]
+	path = libs/M2_employer_scraping
+	url = https://github.com/sakinanazarali/M2_employer_scraping.git
