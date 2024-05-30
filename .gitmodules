@@ -16,3 +16,6 @@
 [submodule "libs/M2_ml_models"]
 	path = libs/M2_ml_models
 	url = https://github.com/sakinanazarali/M2_ml_models.git
+[submodule "libs/M2_evaluations_tools"]
+	path = libs/M2_evaluations_tools
+	url = https://github.com/sakinanazarali/M2_evaluation_tools.git
